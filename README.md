@@ -1,7 +1,7 @@
 # React + Vite
 
 Install with 
-# npm install .
+## npm install .
 
 Run app with
 # npm run dev after installation
